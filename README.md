@@ -20,9 +20,12 @@
  <li> <H4> Executions history </H4> </li> 
       <img src="screens/2.PNG" alt="STEP 02">
  <li> <H4> Image result for gaussian color image denoising </H4> </li> 
-      <img src="screens/3.PNG" alt="STEP 03">
+      <img src="screens/3.PNG" alt="STEP 03 - 1">
+      <img src="screens/3-1.PNG" alt="STEP 03 - 2">
  <li> <H4> Image result for gaussian gray image denoising </H4> </li> 
-      <img src="screens/4.PNG" alt="STEP 04">
+      <img src="screens/4.PNG" alt="STEP 04 - 1">
+      <img src="screens/4-1.PNG" alt="STEP 04 - 2">
  <li> <H4> Image result for salt & pepper gray image denoising </H4> </li> 
-      <img src="screens/5.PNG" alt="STEP 05">
+      <img src="screens/5.PNG" alt="STEP 05 - 1">
+      <img src="screens/5-1.PNG" alt="STEP 05 - 2">
 </ul>
